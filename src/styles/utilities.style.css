@@ -1,0 +1,43 @@
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--color-brand-600);
+  font-weight: 700;
+  font-size: 12px;
+  white-space: nowrap;
+}
+.text-link:hover {
+  color: var(--color-accent-600);
+}
+.capitalize-text {
+  text-transform: capitalize;
+}
+.code-text {
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 12px;
+  color: var(--color-text-secondary);
+}
+.muted-cell {
+  color: #8390a0;
+  font-size: 12px;
+}
+.quantity-low {
+  color: var(--color-warning-700);
+}
+.quantity-negative {
+  color: var(--color-danger-700);
+}
+.quantity-positive {
+  color: var(--color-success-700);
+}
+.table-primary-value {
+  color: var(--color-brand-800);
+  font-size: 12px;
+}
+.empty-description {
+  display: block;
+  color: var(--color-text-secondary);
+  margin-top: 5px;
+  font-size: 12px;
+}

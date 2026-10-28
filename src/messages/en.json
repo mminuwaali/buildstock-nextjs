@@ -1,0 +1,34 @@
+{
+  "app": { "name": "BuildStock", "tagline": "Supply operations" },
+  "navigation": {
+    "overview": "Overview",
+    "pos": "Point of sale",
+    "sales": "Sales",
+    "products": "Products",
+    "inventory": "Stock & movements",
+    "purchases": "Purchases",
+    "transfers": "Transfers",
+    "reports": "Reports",
+    "stores": "Stores & branches",
+    "team": "Team & access",
+    "devices": "Devices",
+    "sync": "Sync center",
+    "audit": "Audit trail",
+    "settings": "Settings"
+  },
+  "status": {
+    "pending": "Pending sync",
+    "syncing": "Syncing",
+    "synced": "Synced",
+    "needs_review": "Needs review",
+    "rejected": "Rejected"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "export": "Export",
+    "loading": "Loading…",
+    "demo": "Demo mode"
+  }
+}

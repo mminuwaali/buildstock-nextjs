@@ -1,0 +1,17 @@
+export const ROUTES = {
+  signIn: "/sign-in",
+  overview: "/overview",
+  pos: "/pos",
+  products: "/products",
+  inventory: "/inventory",
+  sales: "/sales",
+  purchases: "/purchases",
+  transfers: "/transfers",
+  reports: "/reports",
+  stores: "/stores",
+  team: "/team",
+  devices: "/devices",
+  sync: "/sync",
+  audit: "/audit",
+  settings: "/settings",
+} as const;
